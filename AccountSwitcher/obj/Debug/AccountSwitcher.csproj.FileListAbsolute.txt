@@ -1,0 +1,14 @@
+A:\Dropbox\Programmering\AccountSwitcher\AccountSwitcher\bin\Debug\AccountSwitcher.exe.config
+A:\Dropbox\Programmering\AccountSwitcher\AccountSwitcher\bin\Debug\AccountSwitcher.exe
+A:\Dropbox\Programmering\AccountSwitcher\AccountSwitcher\bin\Debug\AccountSwitcher.pdb
+A:\Dropbox\Programmering\AccountSwitcher\AccountSwitcher\obj\Debug\AccountSwitcher.csprojResolveAssemblyReference.cache
+A:\Dropbox\Programmering\AccountSwitcher\AccountSwitcher\obj\Debug\AccountSwitcher.Form1.resources
+A:\Dropbox\Programmering\AccountSwitcher\AccountSwitcher\obj\Debug\AccountSwitcher.Properties.Resources.resources
+A:\Dropbox\Programmering\AccountSwitcher\AccountSwitcher\obj\Debug\AccountSwitcher.SteamAccount.resources
+A:\Dropbox\Programmering\AccountSwitcher\AccountSwitcher\obj\Debug\AccountSwitcher.csproj.GenerateResource.Cache
+A:\Dropbox\Programmering\AccountSwitcher\AccountSwitcher\obj\Debug\AccountSwitcher.exe
+A:\Dropbox\Programmering\AccountSwitcher\AccountSwitcher\obj\Debug\AccountSwitcher.pdb
+A:\Dropbox\Programmering\AccountSwitcher\AccountSwitcher\obj\Debug\AccountSwitcher.AddAccountForm.resources
+C:\Users\Felix\Documents\GitHub\AccountSwitcher\AccountSwitcher\bin\Debug\AccountSwitcher.exe.config
+C:\Users\Felix\Documents\GitHub\AccountSwitcher\AccountSwitcher\obj\Debug\AccountSwitcher.exe
+C:\Users\Felix\Documents\GitHub\AccountSwitcher\AccountSwitcher\obj\Debug\AccountSwitcher.pdb
