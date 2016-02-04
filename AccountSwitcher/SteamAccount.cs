@@ -101,7 +101,6 @@ namespace AccountSwitcher
 
 
                     string login = $"-login {username} {StringCipher.Decrypt(password, decryption)}";
-                    //string loginString = string.Format("-login {0} {1}", username, StringCipher.Decrypt(password, "fanvadsnoppegottellerhuraa123"));
                     Process.Start(Properties.Settings.Default.SteamPath, login);
                 }).Start();
             }

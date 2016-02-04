@@ -12,3 +12,11 @@ A:\Dropbox\Programmering\AccountSwitcher\AccountSwitcher\obj\Debug\AccountSwitch
 C:\Users\Felix\Documents\GitHub\AccountSwitcher\AccountSwitcher\bin\Debug\AccountSwitcher.exe.config
 C:\Users\Felix\Documents\GitHub\AccountSwitcher\AccountSwitcher\obj\Debug\AccountSwitcher.exe
 C:\Users\Felix\Documents\GitHub\AccountSwitcher\AccountSwitcher\obj\Debug\AccountSwitcher.pdb
+C:\Users\Felix\Documents\GitHub\AccountSwitcher\AccountSwitcher\bin\Debug\AccountSwitcher.exe
+C:\Users\Felix\Documents\GitHub\AccountSwitcher\AccountSwitcher\bin\Debug\AccountSwitcher.pdb
+C:\Users\Felix\Documents\GitHub\AccountSwitcher\AccountSwitcher\obj\Debug\AccountSwitcher.csprojResolveAssemblyReference.cache
+C:\Users\Felix\Documents\GitHub\AccountSwitcher\AccountSwitcher\obj\Debug\AccountSwitcher.AddAccountForm.resources
+C:\Users\Felix\Documents\GitHub\AccountSwitcher\AccountSwitcher\obj\Debug\AccountSwitcher.Form1.resources
+C:\Users\Felix\Documents\GitHub\AccountSwitcher\AccountSwitcher\obj\Debug\AccountSwitcher.Properties.Resources.resources
+C:\Users\Felix\Documents\GitHub\AccountSwitcher\AccountSwitcher\obj\Debug\AccountSwitcher.SteamAccount.resources
+C:\Users\Felix\Documents\GitHub\AccountSwitcher\AccountSwitcher\obj\Debug\AccountSwitcher.csproj.GenerateResource.Cache
